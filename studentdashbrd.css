@@ -1,0 +1,29 @@
+.stdadmincontainer{
+    display:flex;
+    justify-content: end;
+    align-items: center;
+    flex-direction: row;
+   
+   width: 50%; 
+   height:80px;
+}
+nav{
+background-color: aliceblue;
+display: flex;
+justify-content: start;
+align-items: center;
+flex-direction: row;
+
+
+}
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.stdadmincontainer a{
+margin-left: 20px;
+}
+.dashboardheading{
+display: flex;
+justify-content: center;
+}

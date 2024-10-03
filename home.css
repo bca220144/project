@@ -1,0 +1,37 @@
+.homecontainer{
+    display:flex;
+    justify-content: end;
+    align-items: center;
+    flex-direction: row;
+   background-image:url();
+   width: 50%; 
+   height:80px;
+  
+}
+nav{
+background-color: aliceblue;
+display: flex;
+justify-content: start;
+align-items: center;
+flex-direction: row;
+
+
+}
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.homecontainer a{
+margin-left: 20px;
+}
+.homeheading{
+display: flex;
+justify-content: center;
+
+}
+.homebodycontainer{
+    background-image: url(homepage.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
